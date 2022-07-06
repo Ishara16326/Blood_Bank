@@ -17,7 +17,7 @@
         android:layout_marginLeft="20dp"
         android:text="Register now!"
         android:textStyle="bold"
-        android:textColor="@color/Topic"
+        android:textColor="@color/Box"
         ></TextView>
 
     <LinearLayout
